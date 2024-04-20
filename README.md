@@ -6,7 +6,7 @@
 
 ## Description
 
-Brief description of your project.
+ Video to Text Hackathon 
 
 ## Features
 
